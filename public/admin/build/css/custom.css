@@ -1,0 +1,54 @@
+.address-block {
+    border: 1px solid #aaa;
+    width: 100%;
+    padding: 10px;
+    background: #fff;
+    border-radius: 10px;
+}
+.address-block p{
+    display:grid;
+    color: #777;
+    line-height:15px
+}
+.address-block p span:first-child {
+    color: #1e4874;
+    font-weight: 900;
+    font-size: 15px;
+    padding-bottom:5px
+}
+.add-address-block {
+    border: 1px solid #aaa;
+    width: 100%;
+    padding: 10px;
+    background: #fff;
+    border-radius: 10px;
+    min-height: 134px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 30px 0;
+    font-size: 20px;
+    font-weight: 700;
+    color: #173d64;
+    cursor:pointer;
+}
+.order-form-table table>tfoot {
+    border-top: 1px solid #ddd;
+}
+.order-form-table table>tfoot>tr>td {
+    border-top: none;
+    padding-top: 2px;
+    padding-bottom: 2px
+}
+.product-name-plan h4{
+    margin-bottom: 0;
+}
+.product-name-plan h6{
+margin-top: 0;
+}
+
+.sub-info-table-img {
+    position: absolute;
+    height: 190px;
+    margin-left: 20px;
+}

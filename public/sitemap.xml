@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://www.pyaas.in/</loc>
+  <lastmod>2022-02-16T09:37:13+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.pyaas.in/contact</loc>
+  <lastmod>2022-02-16T09:37:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.pyaas.in/RefundPolicy</loc>
+  <lastmod>2022-02-16T09:37:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.pyaas.in/Disclamer</loc>
+  <lastmod>2022-02-16T09:37:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.pyaas.in/PrivacyPolicy</loc>
+  <lastmod>2022-02-16T09:37:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.pyaas.in/TermsAndCondition</loc>
+  <lastmod>2022-02-16T09:37:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
